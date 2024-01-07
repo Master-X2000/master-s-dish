@@ -372,7 +372,7 @@ footer {
  /* || MAIN-HERO */
 
 .main-course {
-    background-image:var(--HERO-GRADIENT), url(/img/main-hero.webp);
+    background-image:var(--HERO-GRADIENT), url(img/main-hero.webp);
     background-position: center;
     background-size: cover;
     height:94svh;
@@ -446,7 +446,7 @@ footer {
 /* || DESSERTES-HERO */
 
 .dessertes {
-    background-image:var(--HERO-GRADIENT), url(/img/dessert-hero.jpg);
+    background-image:var(--HERO-GRADIENT), url(img/dessert-hero.jpg);
     background-position: center;
     background-size: cover;
     height:94svh;
@@ -477,7 +477,7 @@ footer {
 /* || ENTREES-HERO */
 
 .Entrees {
-    background-image:var(--HERO-GRADIENT), url(/img/appetizer-hero.jpg);
+    background-image:var(--HERO-GRADIENT), url(img/appetizer-hero.jpg);
     background-position: center;
     background-size: cover;
     height:94svh;
@@ -508,7 +508,7 @@ footer {
 /* || HEALTHY-HERO */
 
 .Healthy {
-    background-image:var(--HERO-GRADIENT), url(/img/healthy-hero.jpg);
+    background-image:var(--HERO-GRADIENT), url(img/healthy-hero.jpg);
     background-position: center;
     background-size: cover;
     height:94svh;
@@ -540,7 +540,7 @@ footer {
 /* || WORKOUT-HERO */
 
 .workout {
-    background-image:var(--HERO-GRADIENT), url(/img/workout\ hero.jpg);
+    background-image:var(--HERO-GRADIENT), url(img/workout\ hero.jpg);
     background-position: center;
     background-size: cover;
     height:94svh;
